@@ -1,5 +1,7 @@
 # Nat Lee | Portfolio
 
+<img width="1032" height="884" alt="image" src="https://github.com/user-attachments/assets/fe7cb4f9-0667-4676-a3d6-6ca941384448" />
+
 > natlee.github.io | v1
 
 A modern, tech-savvy portfolio website built with React and Next.js, showcasing professional experience, projects, and technical expertise in AI/ML, backend development, and software engineering.
